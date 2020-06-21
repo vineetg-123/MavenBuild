@@ -1,6 +1,6 @@
 HelloWorld Servlet example with corresponding Dockerfile
 New line added
-updated line
+updated line---- second update
 
 Use Maven Build first to create war file in Target folder.
 
